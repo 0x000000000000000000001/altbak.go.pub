@@ -1,4 +1,2 @@
-*.purs linguist-vendored=true
-src/** linguist-vendored=true
-run/bak/** linguist-vendored=true
-run/bak/go/** linguist-vendored=false linguist-generated=false linguist-language=Go
+* linguist-vendored=true
+run/bak/go/** !linguist-vendored linguist-generated=false linguist-language=Go
