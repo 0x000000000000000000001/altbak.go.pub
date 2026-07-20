@@ -1,6 +1,6 @@
 # altbak.go.pub
 
-WIP: Currently working on a PureScript compiler targeting Go.
+WIP: Currently working on a super-optimized PureScript compiler targeting Go.
 
 You may find another compiler [here](https://github.com/andyarvanitis/purescript-native), but it may be not super active, nowadays. 
 
