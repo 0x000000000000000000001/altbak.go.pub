@@ -1,4 +1,4 @@
-# altbak.go.pub
+# gopurs
 
 WIP: Currently working on a super-optimized PureScript compiler targeting Go.
 
